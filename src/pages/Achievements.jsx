@@ -114,7 +114,7 @@ const Achievements = () => {
   return (
     <div style={achievementsStyle}>
       <div style={containerStyle}>
-        <h1 style={headingStyle}>Achievements</h1>
+        <h1 style={headingStyle}>DSA & CP</h1>
 
         {/* ACM ICPC Section */}
         <div style={sectionStyle}>

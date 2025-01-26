@@ -14,7 +14,7 @@ const Projects = () => {
   const containerStyle = {
     maxWidth: "900px",
     margin: "0 auto",
-    padding: "2rem",
+    padding: "1rem",
   };
 
   const headingStyle = {

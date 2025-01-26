@@ -13,10 +13,12 @@ const Home = () => {
     backgroundAttachment: "fixed",
     position: "relative",
     overflow: "hidden",
+   
   };
 
   const contentStyle = {
     maxWidth: "900px",
+    margin:"2rem",
     padding: "3rem",
     borderRadius: "12px",
     backgroundColor: "rgba(0, 0, 0, 0.7)",

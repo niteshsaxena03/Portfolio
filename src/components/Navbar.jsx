@@ -195,7 +195,7 @@ const Navbar = () => {
                   (e.target.style.backgroundColor = "rgba(255, 255, 255, 0.1)")
                 }
               >
-                Achievements
+                DSA & CP
               </Link>
             </li>
             <li>
@@ -273,7 +273,7 @@ const Navbar = () => {
                   (e.target.style.backgroundColor = "rgba(255, 255, 255, 0.1)")
                 }
               >
-                Achievements
+                DSA & CP
               </Link>
             </div>
             <div style={dropdownItemStyle}>
