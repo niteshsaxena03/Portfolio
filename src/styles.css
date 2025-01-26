@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* Hide menu on small screens */
+.menu {
+  display: flex;
+  gap: 2rem;
+}
+
+.menu.active {
+  display: block;
+  position: absolute;
+  top: 80px;
+  right: 0;
+  background-color: #333;
+  width: 100%;
+  padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+  }
+
+  .menu-icon {
+    display: flex;
+  }
+}
