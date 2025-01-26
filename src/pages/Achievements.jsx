@@ -173,8 +173,8 @@ const Achievements = () => {
           <h2 style={subHeadingStyle}>LeetCode</h2>
           <ul style={listStyle}>
             <li style={listItemStyle}>
-              Achieved <span style={fourStarStyle}>4-star</span> rank with a
-              rating of <strong>1809</strong>.
+              Achieved <span style={knightStyle}>Knight</span> rating with a
+              score of <strong>1888</strong>.
             </li>
             <li style={listItemStyle}>
               Ranked in the top <strong>4.7%</strong> globally.
@@ -198,8 +198,8 @@ const Achievements = () => {
           <h2 style={subHeadingStyle}>CodeChef</h2>
           <ul style={listStyle}>
             <li style={listItemStyle}>
-              Achieved <span style={knightStyle}>Knight</span> rating with a
-              score of <strong>1888</strong>.
+              Achieved <span style={fourStarStyle}>4-star</span> rank with a
+              rating of <strong>1809</strong>.
             </li>
             <li style={listItemStyle}>
               Ranked in the top <strong>5%</strong> of CodeChef global rankings.
