@@ -152,7 +152,7 @@ const Achievements = () => {
             </li>
             <li style={listItemStyle}>
               Contributed to competitive programming by solving over{" "}
-              <strong>700</strong> problems.
+              <strong>200</strong> problems.
             </li>
             <li style={listItemStyle}>
               Profile:{" "}
@@ -177,7 +177,7 @@ const Achievements = () => {
               score of <strong>1888</strong>.
             </li>
             <li style={listItemStyle}>
-              Ranked in the top <strong>4.7%</strong> globally.
+              Ranked in the top <strong>4.7%</strong> globally.Solved 500+ Problems.
             </li>
             <li style={listItemStyle}>
               Profile:{" "}
