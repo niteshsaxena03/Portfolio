@@ -4,7 +4,7 @@ const Projects = () => {
   const projectsStyle = {
     backgroundColor: "#101010", // Darker background for more contrast
     color: "white",
-    padding: "3rem",
+    padding: "2rem",
     minHeight: "100vh",
     fontFamily: "'Poppins', sans-serif",
     position: "relative", // Needed for absolute positioning of circles

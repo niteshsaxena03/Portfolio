@@ -4,7 +4,7 @@ const About = () => {
   const aboutStyle = {
     backgroundColor: "#121212", // Darker background for depth
     color: "white",
-    padding: "4rem 2rem",
+    padding: "4rem 1rem",
     minHeight: "100vh",
     fontFamily: "'Poppins', sans-serif", // Clean, modern font
     display: "flex",

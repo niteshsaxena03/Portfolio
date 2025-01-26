@@ -18,7 +18,7 @@ const Home = () => {
 
   const contentStyle = {
     maxWidth: "900px",
-    margin:"2rem",
+    margin:"1.5rem",
     padding: "3rem",
     borderRadius: "12px",
     backgroundColor: "rgba(0, 0, 0, 0.7)",
