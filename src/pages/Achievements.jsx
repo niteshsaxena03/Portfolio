@@ -157,7 +157,7 @@ const Achievements = () => {
             <li style={listItemStyle}>
               Profile:{" "}
               <a
-                href="https://codeforces.com/profile/username" // Replace with your Codeforces profile link
+                href="https://codeforces.com/profile/niteshsaxena003" // Replace with your Codeforces profile link
                 style={linkStyle}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -182,7 +182,7 @@ const Achievements = () => {
             <li style={listItemStyle}>
               Profile:{" "}
               <a
-                href="https://leetcode.com/username" // Replace with your LeetCode profile link
+                href="https://leetcode.com/niteshsaxena03" // Replace with your LeetCode profile link
                 style={linkStyle}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -207,7 +207,7 @@ const Achievements = () => {
             <li style={listItemStyle}>
               Profile:{" "}
               <a
-                href="https://www.codechef.com/users/username" // Replace with your CodeChef profile link
+                href="https://www.codechef.com/users/niteshsaxena03" // Replace with your CodeChef profile link
                 style={linkStyle}
                 target="_blank"
                 rel="noopener noreferrer"
